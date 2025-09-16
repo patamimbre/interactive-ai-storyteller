@@ -1,0 +1,15 @@
+{
+  "short_name": "AI Storyteller",
+  "name": "AI Storyteller - Interactive Stories",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
